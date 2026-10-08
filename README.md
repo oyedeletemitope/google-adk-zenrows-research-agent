@@ -176,3 +176,5 @@ Based on the content retrieved from the URL, here are the requested details:
 - Ruff
 
 ## Related Article
+
+[Build a Web Research Agent with Google ADK and Zenrows](https://www.zenrows.com/blog/web-research-agent-google-adk-zenrows)
